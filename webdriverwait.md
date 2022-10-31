@@ -8,23 +8,41 @@ An explicit wait is a code you define to wait for a certain condition to occur b
 # EXPECTED CONDITIONS :–
 There are some common conditions that are frequently of use when automating web browsers.
 ## The following are the Expected Conditions that can be used in Explicit Wait:
+ 
 alertIsPresent()
+
 elementSelectionStateToBe()
+
 elementToBeClickable()
+
 elementToBeSelected()
+
 frameToBeAvaliableAndSwitchToIt()
+
 invisibilityOfTheElementLocated()
+
 invisibilityOfElementWithText()
+
 presenceOfAllElementsLocatedBy()
+
 presenceOfElementLocated()
+
 textToBePresentInElement()
+
 textToBePresentInElementLocated()
+
 textToBePresentInElementValue()
+
 titleIs()
+
 titleContains()
+
 visibilityOf()
+
 visibilityOfAllElements()
+
 visibilityOfAllElementsLocatedBy()
+
 visibilityOfElementLocated()
 
 
